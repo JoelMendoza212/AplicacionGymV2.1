@@ -55,9 +55,9 @@
             // 
             this.VerSeleccionarUsuarioFormularioDarDeBaja.Font = new System.Drawing.Font("Impact", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.VerSeleccionarUsuarioFormularioDarDeBaja.ForeColor = System.Drawing.Color.SeaGreen;
-            this.VerSeleccionarUsuarioFormularioDarDeBaja.Location = new System.Drawing.Point(104, 78);
+            this.VerSeleccionarUsuarioFormularioDarDeBaja.Location = new System.Drawing.Point(92, 62);
             this.VerSeleccionarUsuarioFormularioDarDeBaja.Name = "VerSeleccionarUsuarioFormularioDarDeBaja";
-            this.VerSeleccionarUsuarioFormularioDarDeBaja.Size = new System.Drawing.Size(629, 48);
+            this.VerSeleccionarUsuarioFormularioDarDeBaja.Size = new System.Drawing.Size(559, 38);
             this.VerSeleccionarUsuarioFormularioDarDeBaja.TabIndex = 3;
             this.VerSeleccionarUsuarioFormularioDarDeBaja.Text = "SELECCIONA UN USUARIO A ELIMINAR";
             // 
@@ -71,7 +71,7 @@
             this.BarraTituloDarDeBaja.Location = new System.Drawing.Point(0, 0);
             this.BarraTituloDarDeBaja.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.BarraTituloDarDeBaja.Name = "BarraTituloDarDeBaja";
-            this.BarraTituloDarDeBaja.Size = new System.Drawing.Size(778, 61);
+            this.BarraTituloDarDeBaja.Size = new System.Drawing.Size(692, 49);
             this.BarraTituloDarDeBaja.TabIndex = 5;
             // 
             // LabelDarDeBaja
@@ -79,9 +79,9 @@
             this.LabelDarDeBaja.AutoSize = true;
             this.LabelDarDeBaja.Font = new System.Drawing.Font("Impact", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LabelDarDeBaja.ForeColor = System.Drawing.Color.White;
-            this.LabelDarDeBaja.Location = new System.Drawing.Point(339, 9);
+            this.LabelDarDeBaja.Location = new System.Drawing.Point(301, 7);
             this.LabelDarDeBaja.Name = "LabelDarDeBaja";
-            this.LabelDarDeBaja.Size = new System.Drawing.Size(213, 48);
+            this.LabelDarDeBaja.Size = new System.Drawing.Size(176, 41);
             this.LabelDarDeBaja.TabIndex = 2;
             this.LabelDarDeBaja.Text = "DAR DE BAJA";
             // 
@@ -89,10 +89,10 @@
             // 
             this.PictureBoxLogoDarDeBaja.BackColor = System.Drawing.Color.SeaGreen;
             this.PictureBoxLogoDarDeBaja.Image = ((System.Drawing.Image)(resources.GetObject("PictureBoxLogoDarDeBaja.Image")));
-            this.PictureBoxLogoDarDeBaja.Location = new System.Drawing.Point(-27, -5);
+            this.PictureBoxLogoDarDeBaja.Location = new System.Drawing.Point(-24, -4);
             this.PictureBoxLogoDarDeBaja.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PictureBoxLogoDarDeBaja.Name = "PictureBoxLogoDarDeBaja";
-            this.PictureBoxLogoDarDeBaja.Size = new System.Drawing.Size(266, 65);
+            this.PictureBoxLogoDarDeBaja.Size = new System.Drawing.Size(236, 52);
             this.PictureBoxLogoDarDeBaja.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.PictureBoxLogoDarDeBaja.TabIndex = 0;
             this.PictureBoxLogoDarDeBaja.TabStop = false;
@@ -102,10 +102,10 @@
             this.PtbCerrarFormularioDarDeBaja.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.PtbCerrarFormularioDarDeBaja.Cursor = System.Windows.Forms.Cursors.Hand;
             this.PtbCerrarFormularioDarDeBaja.Image = ((System.Drawing.Image)(resources.GetObject("PtbCerrarFormularioDarDeBaja.Image")));
-            this.PtbCerrarFormularioDarDeBaja.Location = new System.Drawing.Point(731, 14);
+            this.PtbCerrarFormularioDarDeBaja.Location = new System.Drawing.Point(650, 11);
             this.PtbCerrarFormularioDarDeBaja.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PtbCerrarFormularioDarDeBaja.Name = "PtbCerrarFormularioDarDeBaja";
-            this.PtbCerrarFormularioDarDeBaja.Size = new System.Drawing.Size(34, 35);
+            this.PtbCerrarFormularioDarDeBaja.Size = new System.Drawing.Size(30, 28);
             this.PtbCerrarFormularioDarDeBaja.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.PtbCerrarFormularioDarDeBaja.TabIndex = 1;
             this.PtbCerrarFormularioDarDeBaja.TabStop = false;
@@ -118,10 +118,10 @@
             this.ButtonEliminarFormularioDarDeBaja.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ButtonEliminarFormularioDarDeBaja.Font = new System.Drawing.Font("Segoe UI Symbol", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ButtonEliminarFormularioDarDeBaja.ForeColor = System.Drawing.Color.White;
-            this.ButtonEliminarFormularioDarDeBaja.Location = new System.Drawing.Point(568, 283);
+            this.ButtonEliminarFormularioDarDeBaja.Location = new System.Drawing.Point(505, 213);
             this.ButtonEliminarFormularioDarDeBaja.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ButtonEliminarFormularioDarDeBaja.Name = "ButtonEliminarFormularioDarDeBaja";
-            this.ButtonEliminarFormularioDarDeBaja.Size = new System.Drawing.Size(197, 62);
+            this.ButtonEliminarFormularioDarDeBaja.Size = new System.Drawing.Size(175, 50);
             this.ButtonEliminarFormularioDarDeBaja.TabIndex = 7;
             this.ButtonEliminarFormularioDarDeBaja.Text = "ELIMINAR";
             this.ButtonEliminarFormularioDarDeBaja.UseVisualStyleBackColor = false;
@@ -131,19 +131,19 @@
             // 
             this.LabelFiltrarApellidoFormularioDarDeBaja.AutoSize = true;
             this.LabelFiltrarApellidoFormularioDarDeBaja.Font = new System.Drawing.Font("Segoe UI Symbol", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LabelFiltrarApellidoFormularioDarDeBaja.Location = new System.Drawing.Point(29, 148);
+            this.LabelFiltrarApellidoFormularioDarDeBaja.Location = new System.Drawing.Point(26, 118);
             this.LabelFiltrarApellidoFormularioDarDeBaja.Name = "LabelFiltrarApellidoFormularioDarDeBaja";
-            this.LabelFiltrarApellidoFormularioDarDeBaja.Size = new System.Drawing.Size(287, 32);
+            this.LabelFiltrarApellidoFormularioDarDeBaja.Size = new System.Drawing.Size(242, 28);
             this.LabelFiltrarApellidoFormularioDarDeBaja.TabIndex = 9;
             this.LabelFiltrarApellidoFormularioDarDeBaja.Text = "FILTRAR POR APELLIDO:";
             // 
             // TextBoxFiltrarApellido
             // 
             this.TextBoxFiltrarApellido.Font = new System.Drawing.Font("Segoe UI Symbol", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TextBoxFiltrarApellido.Location = new System.Drawing.Point(308, 145);
+            this.TextBoxFiltrarApellido.Location = new System.Drawing.Point(274, 116);
             this.TextBoxFiltrarApellido.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.TextBoxFiltrarApellido.Name = "TextBoxFiltrarApellido";
-            this.TextBoxFiltrarApellido.Size = new System.Drawing.Size(407, 39);
+            this.TextBoxFiltrarApellido.Size = new System.Drawing.Size(362, 34);
             this.TextBoxFiltrarApellido.TabIndex = 10;
             // 
             // DataGridViewDarDeBaja
@@ -182,13 +182,12 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.DataGridViewDarDeBaja.DefaultCellStyle = dataGridViewCellStyle3;
             this.DataGridViewDarDeBaja.EnableHeadersVisualStyles = false;
-            this.DataGridViewDarDeBaja.Location = new System.Drawing.Point(14, 212);
-            this.DataGridViewDarDeBaja.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.DataGridViewDarDeBaja.Location = new System.Drawing.Point(12, 170);
             this.DataGridViewDarDeBaja.Name = "DataGridViewDarDeBaja";
             this.DataGridViewDarDeBaja.ReadOnly = true;
             this.DataGridViewDarDeBaja.RowHeadersWidth = 51;
             this.DataGridViewDarDeBaja.RowTemplate.Height = 24;
-            this.DataGridViewDarDeBaja.Size = new System.Drawing.Size(548, 365);
+            this.DataGridViewDarDeBaja.Size = new System.Drawing.Size(487, 292);
             this.DataGridViewDarDeBaja.TabIndex = 30;
             // 
             // Agregar
@@ -200,7 +199,7 @@
             this.Agregar.Name = "Agregar";
             this.Agregar.ReadOnly = true;
             this.Agregar.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.Agregar.Width = 158;
+            this.Agregar.Width = 135;
             // 
             // ActividadSocio
             // 
@@ -225,10 +224,10 @@
             // 
             // FrmDarDeBajaInactivos
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(778, 592);
+            this.ClientSize = new System.Drawing.Size(692, 474);
             this.Controls.Add(this.DataGridViewDarDeBaja);
             this.Controls.Add(this.TextBoxFiltrarApellido);
             this.Controls.Add(this.LabelFiltrarApellidoFormularioDarDeBaja);
